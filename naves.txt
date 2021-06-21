@@ -1,3 +1,5 @@
 X-Wing
-Nave2
-Nave3
+Nave 2
+Nave 3
+Nave 4
+Nave 5
