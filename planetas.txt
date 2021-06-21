@@ -1,3 +1,5 @@
 lderaan
 Coruscant
 Endor
+Tatooine
+Hoth
